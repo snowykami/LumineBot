@@ -41,7 +41,7 @@ pdm install
 
 ### 运行
 请先激活虚拟环境，同上
-
+而后运行
 ```shell
 python main.py
 ```
