@@ -1,0 +1,22 @@
+[project]
+name = "LumineBot"
+version = "1.0.0"
+description = "A chatbot base on liteyuki"
+authors = [
+    {name = "snowykami", email = "snowykami@outlook.com"},
+]
+dependencies = [
+    "liteyukibot>=6.3.9",
+    "liteyukibot-plugin-antidislink>=0.1.0",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true
