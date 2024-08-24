@@ -1,0 +1,2 @@
+liteyuki.plugin_dirs: [ "src/liteyuki_plugins" ]
+liteyuki.plugins: ["liteyukibot_plugin_antidislink"]
