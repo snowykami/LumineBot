@@ -1,6 +1,6 @@
 <h1 align="center"><i>✨ LumineBot ✨ </i></h1>
 
-<h3 align="center">基于 liteyukibot 的 聊天机器人 应用程式</h3>
+<h3 align="center">基于 liteyukibot 的 简易聊天机器人 应用程式</h3>
 
 ## 简介
 
